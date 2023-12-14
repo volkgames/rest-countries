@@ -44,7 +44,7 @@ export default function Nav({search, onSearchChange, onFilterChange, filter} : n
             <SelectContent className="border-none bg-primary">
                 <SelectItem value="all">All</SelectItem>
                 <SelectItem value="africa">Africa</SelectItem>
-                <SelectItem value="america">America</SelectItem>
+                <SelectItem value="americas">America</SelectItem>
                 <SelectItem value="asia">Asia</SelectItem>
                 <SelectItem value="europe">Europe</SelectItem>
                 <SelectItem value="oceania">Oceania</SelectItem>
